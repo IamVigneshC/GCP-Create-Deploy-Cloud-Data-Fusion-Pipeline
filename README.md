@@ -1,18 +1,18 @@
 # Create-Deploy-Cloud-Data-Fusion-Pipeline
 
-Configure Cloud Data Fusion  
+  • Configure Cloud Data Fusion  
 
-Create a Cloud Data Fusion data transformation pipeline  
+  • Create a Cloud Data Fusion data transformation pipeline  
 
-Connect Cloud Data Fusion to a couple of data sources  
+  • Connect Cloud Data Fusion to a couple of data sources  
 
-Apply basic transformations  
+  • Apply basic transformations  
 
-Join the two data sources using Cloud Data Fusion  
+  • Join the two data sources using Cloud Data Fusion  
 
-Split data to perform an A/B experiment  
+  • Split data to perform an A/B experiment  
 
-Write data to a sink
+  • Write data to a sink
 
 
 You want to create custom marketing materials for an ongoing campaign promotion, and you want drivers to distribute the materials directly to customers' home mailboxes.
