@@ -374,7 +374,6 @@ To view the results after the pipeline runs:
 Switch back to BigQuery and query the dis_user_guide.campaign_targets table in the Query editor.
 
 SELECT * FROM dis_user_guide.campaign_targets
-finaltable.png
 
 You can now use the last digit column to perform your experimentation. For example all even numbers can be used for test A and all odd numbers can be used for test B.
 
